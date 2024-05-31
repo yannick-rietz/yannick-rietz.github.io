@@ -1,0 +1,28 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "de.tchibo.app",
+            "sha256_cert_fingerprints": [
+                "EE:A8:E9:FF:37:87:AA:B4:2E:65:82:51:78:19:1A:71:DF:0B:4C:68:A6:EB:C4:D6:40:D5:8B:8B:D3:45:A0:F7",
+                "55:1D:0B:F0:B3:E3:91:13:F7:D5:B4:DD:90:50:A0:AD:7A:E3:BB:08:62:6C:FD:88:57:60:44:0D:AE:58:3F:B4"
+            ]
+        }
+    },{
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "de.tchibo.beta",
+            "sha256_cert_fingerprints": [
+                "41:13:59:B9:CA:43:92:C1:79:40:96:C2:A6:B1:5E:9A:3E:64:45:1C:10:24:5C:D0:98:D1:9A:8E:DD:17:78:F7",
+                "33:1E:26:CC:67:4F:84:95:A5:48:C7:02:C9:FD:EB:1A:EC:80:42:1B:2D:AD:36:27:80:79:FF:12:89:BB:C3:84",
+                "55:1D:0B:F0:B3:E3:91:13:F7:D5:B4:DD:90:50:A0:AD:7A:E3:BB:08:62:6C:FD:88:57:60:44:0D:AE:58:3F:B4"
+            ]
+        }
+    }
+]
